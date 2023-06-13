@@ -3,7 +3,7 @@ Ticket machine
 
 
 ## Description
-My solution to challenge 8 from course "Python Masters: 16 Days to Learn Python Programming".
+My solution to the challenge 8 from course "Python Masters: 16 Days to Learn Python Programming".
 
 Simple program simulating ticket machine in pharmacy.
 At the entrance client chooses one of the available areas: perfumes, medicines, cosmetics.
